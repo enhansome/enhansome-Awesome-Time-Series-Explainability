@@ -1,0 +1,768 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Surveys",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-03T18:32:08Z",
+            "owner": "JHoelli",
+            "repo": "Awesome-Time-Series-Explainability",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Libraries",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-03T18:32:08Z",
+            "owner": "JHoelli",
+            "repo": "Awesome-Time-Series-Explainability",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Classification",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-03T18:32:08Z",
+            "owner": "JHoelli",
+            "repo": "Awesome-Time-Series-Explainability",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Regression / Forecasting",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-03T18:32:08Z",
+            "owner": "JHoelli",
+            "repo": "Awesome-Time-Series-Explainability",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Classification and Regression / Forcasting",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-03T18:32:08Z",
+            "owner": "JHoelli",
+            "repo": "Awesome-Time-Series-Explainability",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Benchmarking and Evaluation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-03T18:32:08Z",
+            "owner": "JHoelli",
+            "repo": "Awesome-Time-Series-Explainability",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ante-Hoc Explanations",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-03T18:32:08Z",
+            "owner": "JHoelli",
+            "repo": "Awesome-Time-Series-Explainability",
+            "stars": 188
+          }
+        }
+      ],
+      "title": "Outline"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TSInterpret: A Python Package for the Interpretability of Time Series Classification",
+          "description": "(2023) by Höllig, J., Kulbach, C., & Thoma, S. https://github.com/fzi-forschungszentrum-informatik/TSInterpret,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-19T09:23:59Z",
+            "owner": "fzi-forschungszentrum-informatik",
+            "repo": "TSInterpret",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Time Interpret: a Unified Model Interpretability Library for Time Series",
+          "description": "(2023) by Enguehard, J. https://github.com/josephenguehard/time_interpret,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-18T12:38:33Z",
+            "owner": "josephenguehard",
+            "repo": "time_interpret",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TSGap: Composable time-series missingness simulation. Separates mechanisms (MCAR/MAR/MNAR) from patterns (pointwise/block/monotone/decay/markov)",
+          "description": "(2025) by Oripov, F. https://github.com/feruzoripov/tsgap,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-14T22:53:29Z",
+            "owner": "feruzoripov",
+            "repo": "tsgap",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Classification"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Benchmarking Deep Learning Interpretability in Time Series Predictions",
+          "description": "(2020) by Ismail, A. A., Gunady, M., Corrada Bravo, H., & Feizi, S. https://github.com/ayaabdelsalam91/TS-Interpretability-Benchmark,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-10-07T02:34:02Z",
+            "owner": "ayaabdelsalam91",
+            "repo": "TS-Interpretability-Benchmark",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "What went wrong and when? Instance-wise feature importance for time-series black-box models",
+          "description": "(2020) by Tonekaboni, S., Joshi, S., Campbell, K., Duvenaud, D. K., & Goldenberg, A. https://github.com/sanatonek/time_series_explainability,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-02-23T16:09:10Z",
+            "owner": "sanatonek",
+            "repo": "time_series_explainability",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LIMESegment: Meaningful, Realistic Time Series Explanations",
+          "description": ", (2022) by Sivill, T., & Flach, P., https://github.com/TortySivill/LIMESegment,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-10-31T09:47:30Z",
+            "owner": "TortySivill",
+            "repo": "LIMESegment",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Time is Not Enough: Time-Frequency based Explanation for Time-Series Black-Box Models",
+          "description": ", (2024), by *Chung, H., Jo, S., Kwon, Y., & Choi, E. * https://github.com//gustmd0121/time_is_not_enough,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-05T02:45:20Z",
+            "owner": "gustmd0121",
+            "repo": "Time_is_not_Enough",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Class-Specific Explainability for Deep Time Series Classifiers",
+          "description": ", (2022) by Doddaiah, R., Parvatharaju, P., Rundensteiner, E., & Hartvigsen, T., https://github.com/rameshdoddaiah/DEMUX,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-05-21T00:03:05Z",
+            "owner": "rameshdoddaiah",
+            "repo": "DEMUX",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "timeXplain -- A Framework for Explaining the Predictions of Time Series Classifiers",
+          "description": "(2019) by Mujkanovic, F., Doskoč, V., Schirneck, M., Schäfer, P., & Friedrich, T. https://github.com/LoadingByte/timeXplain,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-11-21T02:54:08Z",
+            "owner": "LoadingByte",
+            "repo": "timeXplain",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Translating Image XAI to Multivariate Time Series",
+          "description": ", (2024), by Tronchin, L., Cordelli, E., Celsi, L. R., Maccagnola, D., Natale, M., Soda, P., & Sicilia, R. https://github.com//ltronchin/translating-xai-mts,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-25T07:17:51Z",
+            "owner": "ltronchin",
+            "repo": "translating-xai-mts",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Explaining time series classifiers through meaningful perturbation and optimisation",
+          "description": ", (2023), by H Meng, C Wagner, I Triguero https://github.com/menghan1994/ETSC_through_Meainingful_Perturbation_and_Optimisation,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-30T14:45:26Z",
+            "owner": "menghan1994",
+            "repo": "ETSC_through_Meainingful_Perturbation_and_Optimisation",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Feature Attribution"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Counterfactual explanations for multivariate time series",
+          "description": "(2021) by Ates, E., Aksar, B., Leung, V. J., & Coskun, A. K. https://github.com/peaclab/CoMTE,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-03-07T04:30:00Z",
+            "owner": "peaclab",
+            "repo": "CoMTE",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Instance-based Counterfactual Explanations for Time Series Classification",
+          "description": "(2020) by Delaney, E., Greene, D., & Keane, M. T. https://github.com/e-delaney/Instance-Based_CFE_TSC,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-06-24T14:22:53Z",
+            "owner": "e-delaney",
+            "repo": "Instance-Based_CFE_TSC",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TSEvo: Evolutionary counterfactual explanations for time series classification",
+          "description": "(2022) by Höllig, J., Kulbach, C., & Thoma, S. https://github.com/JHoelli/TSEvo,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-12-22T10:00:21Z",
+            "owner": "JHoelli",
+            "repo": "TSEvo",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Glacier: guided locally constrained counterfactual explanations for time series classification",
+          "description": "(2024) by Wang, Z., Samsten, I., Miliou, I., Mochaourab, R., & Papapetrou, P. https://github.com/zhendong3wang/learning-time-series-counterfactuals,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-15T12:59:25Z",
+            "owner": "zhendong3wang",
+            "repo": "learning-time-series-counterfactuals",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shapelet-Based Counterfactual Explanations for Multivariate Time Series",
+          "description": "(2022) by Bahri, O., Boubrahimi, S. F., & Hamdi, S. M. https://github.com/omarbahri/SETS,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-08T18:25:42Z",
+            "owner": "omarbahri",
+            "repo": "SETS",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CELS: Counterfactual Explanations for Time Series Data via Learned Saliency Maps",
+          "description": "(2023) by Li, P., Bahri, O., Boubrahimi, S. F., & Hamdi, S. M. https://github.com/Luckilyeee/CELS,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-20T18:34:16Z",
+            "owner": "Luckilyeee",
+            "repo": "CELS",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Motif-Guided Time Series Counterfactual Explanations",
+          "description": "(2022) by Li, P., Boubrahimi, S. F., & Hamdi, S. M. https://github.com/Luckilyeee/Motif-guided-counterfactual-explanation,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-02-01T21:33:21Z",
+            "owner": "Luckilyeee",
+            "repo": "motif_guided_cf",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sub-SpaCE: Subsequence-Based Sparse Counterfactual Explanations for Time Series Classification Problems",
+          "description": "(2024) by Refoyo, M., & Luengo, D. https://github.com/MarioRefoyo/Sub-SpaCE,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-08-29T10:58:03Z",
+            "owner": "MarioRefoyo",
+            "repo": "Sub-SpaCE",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Counterfactuals"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TimeSHAP: Explaining Recurrent Models through Sequence Perturbations",
+          "description": ", (2020) by Bento, J., Saleiro, P., Cruz, A. F., Figueiredo, M. A., & Bizarro, P., https://github.com/feedzai/timeshap,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-12-21T12:00:39Z",
+            "owner": "feedzai",
+            "repo": "timeshap",
+            "stars": 199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Understanding Any Time Series Classifier with a Subsequence-based Explainer",
+          "description": ", (2023) by Spinnato, F., Guidotti, R., Monreale, A., Nanni, M., Pedreschi, D., & Giannotti, F. https://github.com/fspinna/lasts,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-30T21:01:14Z",
+            "owner": "fspinna",
+            "repo": "lasts",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ExTea: An Evolutionary Algorithm-Based Approach for Enhancing Explainability in Time-Series Models",
+          "description": "(2024) by Huang, Y., Zhou, Y., Zhao, H., Fang, L., Riedel, T., & Beigl, M https://github.com/HuangYiran/extea,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-05-28T08:37:15Z",
+            "owner": "HuangYiran",
+            "repo": "extea",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Frameworks (Multiple Explanation Types)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Explaining time series predictions with dynamic masks",
+          "description": "(2021) by Crabbé, J., & Van Der Schaar, M. https://github.com/JonathanCrabbe/Dynamask,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-31T16:01:32Z",
+            "owner": "JonathanCrabbe",
+            "repo": "Dynamask",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TEMPORAL DEPENDENCIES IN FEATURE IMPORTANCE FOR TIME SERIES PREDICTION",
+          "description": "(2023) by Leung, K. K., Rooke, C., Smith, J., Zuberi, S., & Volkovs, M. https://github.com/layer6ai-labs/WinIT,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-03-31T12:57:35Z",
+            "owner": "layer6ai-labs",
+            "repo": "WinIT",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TS-MULE: Local Interpretable Model-Agnostic Explanations for Time Series Forecast Models",
+          "description": "(2021) by Schlegel, U., Vo, D. L., Keim, D. A., & Seebacher, D. https://github.comdbvis-ukon/ts-mule,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-09-15T09:16:45Z",
+            "owner": "dbvis-ukon",
+            "repo": "ts-mule",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Counterfactual Explanations for Time Series Forecasting",
+          "description": "(2023) by Wang, Z., Miliou, I., Samsten, I., & Papapetrou, P. https://github.com/zhendong3wang/counterfactual-explanations-for-forecasting,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-14T15:37:18Z",
+            "owner": "zhendong3wang",
+            "repo": "counterfactual-explanations-for-forecasting",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShapTime: A General XAI Approach for Explainable Time Series Forecasting",
+          "description": "(2024) by Zhang, Y., Sun, Q., Qi, D., Liu, J., Ma, R., & Petrosian, O. https://github.com/Zhangyuyi-0825/ShapTime,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-03-08T05:42:03Z",
+            "owner": "Zhangyuyi-0825",
+            "repo": "ShapTime",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Forecasting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Learning Perturbations to Explain Time Series Predictions",
+          "description": "(2023) by Enguehard, J. https://github.com/josephenguehard/time_interpret,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-18T12:38:33Z",
+            "owner": "josephenguehard",
+            "repo": "time_interpret",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tsviz: Demystification of deep learning models for time-series analysis",
+          "description": "(2019) by Siddiqui, S. A., Mercier, D., Munir, M., Dengel, A., & Ahmed, S. https://github.com/shoaibahmed/TSViz-Core,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-05-15T00:17:43Z",
+            "owner": "shoaibahmed",
+            "repo": "TSViz-Core",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Classification and Regression / Forcasting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Exathlon: A Benchmark for Explainable Anomaly Detection over Time Series",
+          "description": ", (2021) by Jacob, V., Song, F., Stiegler, A., Rad, B., Diao, Y., & Tatbul, N. https://github.com/exathlonbenchmark/exathlon,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-13T12:49:37Z",
+            "owner": "exathlonbenchmark",
+            "repo": "exathlon",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Evaluation of post-hoc interpretability methods in time-series classification",
+          "description": ", (2023) by Turbé, H., Bjelogrlic, M., Lovis, C. et al., https://github.com/hturbe/InterpretTime,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-13T08:12:48Z",
+            "owner": "hturbe",
+            "repo": "InterpretTime",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Evaluating Explanation Methods for Multivariate Time Series Classification",
+          "description": ", (2023) by *Serramazza, D. I., Nguyen, T. T., Nguyen, T. L., & Ifrim, G. * https://github.com/mlgig/Evaluating-Explanation-Methods-for-MTSC,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-09T07:48:45Z",
+            "owner": "mlgig",
+            "repo": "Evaluating-Explanation-Methods-for-MTSC",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Robust Framework for Explanation Evaluation in Time Series Classification",
+          "description": ", (2023) by Nguyen, T. T., Nguyen, T. L., & Ifrim, G. https://github.com/mlgig/amee,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-06-26T17:04:43Z",
+            "owner": "mlgig",
+            "repo": "amee",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Deep Dive into Perturbations as Evaluation Technique for Time Series XAI",
+          "description": ", (2023) by Schlegel, U., & Keim, D. A., https://github.com/visual-xai-for-time-series/time-series-xai-perturbation-analysis,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-08-11T13:31:40Z",
+            "owner": "visual-xai-for-time-series",
+            "repo": "time-series-xai-perturbation-analysis",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XTSC-Bench: Quantitative Benchmarking for Explainers on Time Series Classification",
+          "description": ", (2023) by Höllig, J., Thoma, S., & Grimm, F. https://github.com/JHoelli/XTSC-Bench,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-24T06:40:11Z",
+            "owner": "JHoelli",
+            "repo": "XTSC-Bench",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Benchmarking and Evaluation"
+    },
+    {
+      "description": "While this repository mostly focuses on post-hoc explanations - i.e. introducing the explanations after the training of the predictor, this section includes some approches that include explanability into the predicors design (e.g., via architecture or training).",
+      "items": [],
+      "title": "Ante-Hoc Explanation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Retain: An interpretable predictive model for healthcare using reverse time attention mechanism",
+          "description": "(2016) by Choi, E., Bahadori, M. T., Sun, J., Kulas, J., Schuetz, A., & Stewart, W. https://github.com/mp2893/retain,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-11-04T00:27:21Z",
+            "owner": "mp2893",
+            "repo": "retain",
+            "stars": 226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xcm: An explainable convolutional neural network for multivariate time series classification",
+          "description": "(2021) by Fauvel, K., Lin, T., Masson, V., Fromont, É., & Termier, A. https://github.com/XAIseries/XCM,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-27T13:08:56Z",
+            "owner": "XAIseries",
+            "repo": "XCM",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XEM: An explainable-by-design ensemble method for multivariate time series classification",
+          "description": "(2022) by Fauvel, K., Fromont, É., Masson, V., Faverdin, P., & Termier, A https://github.com/XAIseries/XEM,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-18T10:51:10Z",
+            "owner": "XAIseries",
+            "repo": "XEM",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fast, accurate and explainable time series classification through randomization",
+          "description": "(2023) by Cabello, N., Naghizade, E., Qi, J., & Kulik, L. https://github.com/stevcabello/r-STSF,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-10-17T15:48:09Z",
+            "owner": "stevcabello",
+            "repo": "r-STSF",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Explaining Deep Classification of Time-Series Data with Learned Prototypes",
+          "description": "(2019) by Gee, A. H., Garcia-Olano, D., Ghosh, J., & Paydarfar, D. https://github.com/alangee/ijcai19-ts-prototypes,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-10-28T05:50:31Z",
+            "owner": "alangee",
+            "repo": "ijcai19-ts-prototypes",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Classification"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Interpretable Multivariate Time Series Forecasting with Temporal Attention Convolutional Neural Networks",
+          "description": "(2020) by Pantiskas, L., Verstoep, K., & Bal, H. https://github.com/lpphd/multivariate-attention-tcn,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-03-25T00:32:32Z",
+            "owner": "lpphd",
+            "repo": "multivariate-attention-tcn",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Exploring interpretable LSTM neural networks over multi-variable data",
+          "description": "(2019) by Guo, Tian, Tao Lin, and Nino Antulov-Fantulin https://github.com/weilai0980/IMV-LSTM,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-06-18T15:15:16Z",
+            "owner": "weilai0980",
+            "repo": "IMV-LSTM",
+            "stars": 49
+          }
+        }
+      ],
+      "title": "Forecasting"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T12:11:50.148Z",
+    "original_repository": "JHoelli/Awesome-Time-Series-Explainability",
+    "original_repository_sha": "4b31e71b4ef1be9f930a43a624182dcc944fe4ae",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Time-Series-Explainability",
+    "enhanced_repository_description": null,
+    "title": "Awesome-Time-Series-Explainability with stars"
+  }
+}
