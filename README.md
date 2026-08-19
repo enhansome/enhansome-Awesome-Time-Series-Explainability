@@ -24,7 +24,7 @@ A list of XAI for time series. This list focuses (currently) on Post-Hoc Explain
 
 ## Libraries
 
-* [**TSInterpret: A Python Package for the Interpretability of Time Series Classification**](https://joss.theoj.org/papers/10.21105/joss.05220.pdf) (2023) by *Höllig, J., Kulbach, C., & Thoma, S.* <https://github.com/fzi-forschungszentrum-informatik/TSInterpret> ⭐ 143 | 🐛 5 | 🌐 Python | 📅 2025-11-19, ![](https://img.shields.io/github/stars/fzi-forschungszentrum-informatik/TSInterpret.svg?style=social)
+* [**TSInterpret: A Python Package for the Interpretability of Time Series Classification**](https://joss.theoj.org/papers/10.21105/joss.05220.pdf) (2023) by *Höllig, J., Kulbach, C., & Thoma, S.* <https://github.com/fzi-forschungszentrum-informatik/TSInterpret> ⭐ 144 | 🐛 5 | 🌐 Python | 📅 2025-11-19, ![](https://img.shields.io/github/stars/fzi-forschungszentrum-informatik/TSInterpret.svg?style=social)
 * [**Time Interpret: a Unified Model Interpretability Library for Time Series**](https://arxiv.org/abs/2306.02968) (2023) by *Enguehard, J.* <https://github.com/josephenguehard/time_interpret> ⭐ 72 | 🐛 3 | 🌐 Python | 📅 2026-05-18, ![](https://img.shields.io/github/stars/josephenguehard/time_interpret.svg?style=social)
 * [**TSGap: Composable time-series missingness simulation. Separates mechanisms (MCAR/MAR/MNAR) from patterns (pointwise/block/monotone/decay/markov)**](https://github.com/feruzoripov/tsgap) ⭐ 6 | 🐛 1 | 🌐 Python | 📅 2026-08-17 (2025) by *Oripov, F.* <https://github.com/feruzoripov/tsgap> ⭐ 6 | 🐛 1 | 🌐 Python | 📅 2026-08-17, ![](https://img.shields.io/github/stars/feruzoripov/tsgap.svg?style=social)
 
@@ -118,4 +118,4 @@ While this repository mostly focuses on post-hoc explanations - i.e. introducing
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
