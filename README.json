@@ -12,7 +12,7 @@
             "archived": false,
             "id": 724017466,
             "language": null,
-            "last_commit": "2026-04-03T18:32:08Z",
+            "last_commit": "2026-08-19T18:26:42Z",
             "owner": "JHoelli",
             "repo": "Awesome-Time-Series-Explainability",
             "stars": 189
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 724017466,
             "language": null,
-            "last_commit": "2026-04-03T18:32:08Z",
+            "last_commit": "2026-08-19T18:26:42Z",
             "owner": "JHoelli",
             "repo": "Awesome-Time-Series-Explainability",
             "stars": 189
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 724017466,
             "language": null,
-            "last_commit": "2026-04-03T18:32:08Z",
+            "last_commit": "2026-08-19T18:26:42Z",
             "owner": "JHoelli",
             "repo": "Awesome-Time-Series-Explainability",
             "stars": 189
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 724017466,
             "language": null,
-            "last_commit": "2026-04-03T18:32:08Z",
+            "last_commit": "2026-08-19T18:26:42Z",
             "owner": "JHoelli",
             "repo": "Awesome-Time-Series-Explainability",
             "stars": 189
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 724017466,
             "language": null,
-            "last_commit": "2026-04-03T18:32:08Z",
+            "last_commit": "2026-08-19T18:26:42Z",
             "owner": "JHoelli",
             "repo": "Awesome-Time-Series-Explainability",
             "stars": 189
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 724017466,
             "language": null,
-            "last_commit": "2026-04-03T18:32:08Z",
+            "last_commit": "2026-08-19T18:26:42Z",
             "owner": "JHoelli",
             "repo": "Awesome-Time-Series-Explainability",
             "stars": 189
@@ -102,7 +102,7 @@
             "archived": false,
             "id": 724017466,
             "language": null,
-            "last_commit": "2026-04-03T18:32:08Z",
+            "last_commit": "2026-08-19T18:26:42Z",
             "owner": "JHoelli",
             "repo": "Awesome-Time-Series-Explainability",
             "stars": 189
@@ -142,6 +142,21 @@
             "owner": "josephenguehard",
             "repo": "time_interpret",
             "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tslens: A PyTorch Toolkit for Interpreting Time-Series Deep Learning Models",
+          "description": "(2024) by Islam, M. K., & Fox, J. https://github.com/khairulislam/tslens,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 647842068,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-18T03:43:20Z",
+            "owner": "khairulislam",
+            "repo": "tslens",
+            "stars": 13
           }
         },
         {
@@ -587,6 +602,21 @@
             "repo": "TSViz-Core",
             "stars": 13
           }
+        },
+        {
+          "node_type": "item",
+          "title": "WinTSR: A Windowed Temporal Saliency Rescaling Method for Interpreting Time Series Deep Learning Models",
+          "description": "(2024) by Islam, M. K., & Fox, J. https://github.com/khairulislam/tslens,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 647842068,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-18T03:43:20Z",
+            "owner": "khairulislam",
+            "repo": "tslens",
+            "stars": 13
+          }
         }
       ],
       "title": "Classification and Regression / Forcasting"
@@ -814,10 +844,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:08:48.612Z",
+    "last_updated": "2026-08-20T11:54:59.083Z",
     "original_repository": "JHoelli/Awesome-Time-Series-Explainability",
     "original_repository_id": 724017466,
-    "original_repository_sha": "4b31e71b4ef1be9f930a43a624182dcc944fe4ae",
+    "original_repository_sha": "670e49cc3a8db41f8e6c6040bfe129f730596c8f",
     "enhanced_repository": "enhansome/enhansome-Awesome-Time-Series-Explainability",
     "enhanced_repository_description": null,
     "title": "Awesome-Time-Series-Explainability with stars"
