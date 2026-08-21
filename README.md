@@ -84,7 +84,7 @@ A list of XAI for time series. This list focuses (currently) on Post-Hoc Explain
 
 ## Benchmarking and Evaluation
 
-* [**Exathlon: A Benchmark for Explainable Anomaly Detection over Time Series**](https://arxiv.org/pdf/2010.05073.pdf), (2021) by *Jacob, V., Song, F., Stiegler, A., Rad, B., Diao, Y., & Tatbul, N.* <https://github.com/exathlonbenchmark/exathlon> ⭐ 71 | 🐛 2 | 🌐 Python | 📅 2024-03-13, ![](https://img.shields.io/github/stars/exathlonbenchmark/exathlon.svg?style=social)
+* [**Exathlon: A Benchmark for Explainable Anomaly Detection over Time Series**](https://arxiv.org/pdf/2010.05073.pdf), (2021) by *Jacob, V., Song, F., Stiegler, A., Rad, B., Diao, Y., & Tatbul, N.* <https://github.com/exathlonbenchmark/exathlon> ⭐ 69 | 🐛 2 | 🌐 Python | 📅 2024-03-13, ![](https://img.shields.io/github/stars/exathlonbenchmark/exathlon.svg?style=social)
 * [**Evaluation of post-hoc interpretability methods in time-series classification**](https://www.nature.com/articles/s42256-023-00620-w), (2023) by *Turbé, H., Bjelogrlic, M., Lovis, C. et al.*, <https://github.com/hturbe/InterpretTime> ⭐ 56 | 🐛 1 | 🌐 Python | 📅 2023-04-13, ![](https://img.shields.io/github/stars/hturbe/InterpretTime.svg?style=social)
 * [**Evaluating Explanation Methods for Multivariate Time Series Classification**](https://arxiv.org/abs/2308.15223), (2023) by \*Serramazza, D. I., Nguyen, T. T., Nguyen, T. L., & Ifrim, G. \* <https://github.com/mlgig/Evaluating-Explanation-Methods-for-MTSC> ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-06-09, ![](https://img.shields.io/github/stars/mlgig/Evaluating-Explanation-Methods-for-MTSC.svg?style=social)
 * [**Robust Framework for Explanation Evaluation in Time Series Classification**](https://arxiv.org/abs/2306.05501), (2023) by *Nguyen, T. T., Nguyen, T. L., & Ifrim, G.* <https://github.com/mlgig/amee> ⭐ 7 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-06-26, ![](https://img.shields.io/github/stars/mlgig/amee.svg?style=social)
@@ -120,4 +120,4 @@ While this repository mostly focuses on post-hoc explanations - i.e. introducing
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._

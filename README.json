@@ -636,7 +636,7 @@
             "last_commit": "2024-03-13T12:49:37Z",
             "owner": "exathlonbenchmark",
             "repo": "exathlon",
-            "stars": 71
+            "stars": 69
           }
         },
         {
@@ -844,7 +844,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T11:54:59.083Z",
+    "last_updated": "2026-08-21T11:54:40.261Z",
     "original_repository": "JHoelli/Awesome-Time-Series-Explainability",
     "original_repository_id": 724017466,
     "original_repository_sha": "670e49cc3a8db41f8e6c6040bfe129f730596c8f",
