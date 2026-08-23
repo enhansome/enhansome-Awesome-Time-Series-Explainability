@@ -15,7 +15,7 @@
             "last_commit": "2026-08-19T18:26:42Z",
             "owner": "JHoelli",
             "repo": "Awesome-Time-Series-Explainability",
-            "stars": 189
+            "stars": 191
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-19T18:26:42Z",
             "owner": "JHoelli",
             "repo": "Awesome-Time-Series-Explainability",
-            "stars": 189
+            "stars": 191
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-19T18:26:42Z",
             "owner": "JHoelli",
             "repo": "Awesome-Time-Series-Explainability",
-            "stars": 189
+            "stars": 191
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-19T18:26:42Z",
             "owner": "JHoelli",
             "repo": "Awesome-Time-Series-Explainability",
-            "stars": 189
+            "stars": 191
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-19T18:26:42Z",
             "owner": "JHoelli",
             "repo": "Awesome-Time-Series-Explainability",
-            "stars": 189
+            "stars": 191
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-19T18:26:42Z",
             "owner": "JHoelli",
             "repo": "Awesome-Time-Series-Explainability",
-            "stars": 189
+            "stars": 191
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-19T18:26:42Z",
             "owner": "JHoelli",
             "repo": "Awesome-Time-Series-Explainability",
-            "stars": 189
+            "stars": 191
           }
         }
       ],
@@ -168,7 +168,7 @@
             "archived": false,
             "id": 1163640402,
             "language": "Python",
-            "last_commit": "2026-08-17T20:31:35Z",
+            "last_commit": "2026-08-22T16:18:02Z",
             "owner": "feruzoripov",
             "repo": "tsgap",
             "stars": 6
@@ -194,7 +194,7 @@
                 "last_commit": "2021-10-07T02:34:02Z",
                 "owner": "ayaabdelsalam91",
                 "repo": "TS-Interpretability-Benchmark",
-                "stars": 90
+                "stars": 89
               }
             },
             {
@@ -239,7 +239,7 @@
                 "last_commit": "2024-12-05T02:45:20Z",
                 "owner": "gustmd0121",
                 "repo": "Time_is_not_Enough",
-                "stars": 13
+                "stars": 14
               }
             },
             {
@@ -844,7 +844,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T11:48:28.686Z",
+    "last_updated": "2026-08-23T11:48:43.805Z",
     "original_repository": "JHoelli/Awesome-Time-Series-Explainability",
     "original_repository_id": 724017466,
     "original_repository_sha": "670e49cc3a8db41f8e6c6040bfe129f730596c8f",

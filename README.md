@@ -5,13 +5,13 @@ A list of XAI for time series. This list focuses (currently) on Post-Hoc Explain
 
 ## Outline
 
-* [Surveys](https://github.com/JHoelli/Awesome-Time-Series-Explainability#Surveys) ⭐ 189 | 🐛 0 | 📅 2026-08-19
-* [Libraries ](https://github.com/JHoelli/Awesome-Time-Series-Explainability#Libraries) ⭐ 189 | 🐛 0 | 📅 2026-08-19
-* [Classification ](https://github.com/JHoelli/Awesome-Time-Series-Explainability#Classification) ⭐ 189 | 🐛 0 | 📅 2026-08-19
-* [Regression / Forecasting](https://github.com/JHoelli/Awesome-Time-Series-Explainability#Regression-/-Forecasting) ⭐ 189 | 🐛 0 | 📅 2026-08-19
-* [Classification and Regression / Forcasting](https://github.com/JHoelli/Awesome-Time-Series-Explainability#Classification-and-Regression-/-Forcasting) ⭐ 189 | 🐛 0 | 📅 2026-08-19
-* [Benchmarking and Evaluation](https://github.com/JHoelli/Awesome-Time-Series-Explainability#Benchmarking-and-Evaluation) ⭐ 189 | 🐛 0 | 📅 2026-08-19
-* [Ante-Hoc Explanations](https://github.com/JHoelli/Awesome-Time-Series-Explainability#Ante-Hoc-Explanation) ⭐ 189 | 🐛 0 | 📅 2026-08-19
+* [Surveys](https://github.com/JHoelli/Awesome-Time-Series-Explainability#Surveys) ⭐ 191 | 🐛 0 | 📅 2026-08-19
+* [Libraries ](https://github.com/JHoelli/Awesome-Time-Series-Explainability#Libraries) ⭐ 191 | 🐛 0 | 📅 2026-08-19
+* [Classification ](https://github.com/JHoelli/Awesome-Time-Series-Explainability#Classification) ⭐ 191 | 🐛 0 | 📅 2026-08-19
+* [Regression / Forecasting](https://github.com/JHoelli/Awesome-Time-Series-Explainability#Regression-/-Forecasting) ⭐ 191 | 🐛 0 | 📅 2026-08-19
+* [Classification and Regression / Forcasting](https://github.com/JHoelli/Awesome-Time-Series-Explainability#Classification-and-Regression-/-Forcasting) ⭐ 191 | 🐛 0 | 📅 2026-08-19
+* [Benchmarking and Evaluation](https://github.com/JHoelli/Awesome-Time-Series-Explainability#Benchmarking-and-Evaluation) ⭐ 191 | 🐛 0 | 📅 2026-08-19
+* [Ante-Hoc Explanations](https://github.com/JHoelli/Awesome-Time-Series-Explainability#Ante-Hoc-Explanation) ⭐ 191 | 🐛 0 | 📅 2026-08-19
 
 ## Surveys
 
@@ -27,17 +27,17 @@ A list of XAI for time series. This list focuses (currently) on Post-Hoc Explain
 * [**TSInterpret: A Python Package for the Interpretability of Time Series Classification**](https://joss.theoj.org/papers/10.21105/joss.05220.pdf) (2023) by *Höllig, J., Kulbach, C., & Thoma, S.* <https://github.com/fzi-forschungszentrum-informatik/TSInterpret> ⭐ 144 | 🐛 5 | 🌐 Python | 📅 2025-11-19, ![](https://img.shields.io/github/stars/fzi-forschungszentrum-informatik/TSInterpret.svg?style=social)
 * [**Time Interpret: a Unified Model Interpretability Library for Time Series**](https://arxiv.org/abs/2306.02968) (2023) by *Enguehard, J.* <https://github.com/josephenguehard/time_interpret> ⭐ 72 | 🐛 3 | 🌐 Python | 📅 2026-05-18, ![](https://img.shields.io/github/stars/josephenguehard/time_interpret.svg?style=social)
 * [**tslens: A PyTorch Toolkit for Interpreting Time-Series Deep Learning Models**](https://arxiv.org/abs/2412.04532) (2024) by *Islam, M. K., & Fox, J.* <https://github.com/khairulislam/tslens> ⭐ 13 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-08-18, ![](https://img.shields.io/github/stars/khairulislam/tslens.svg?style=social)
-* [**TSGap: Composable time-series missingness simulation. Separates mechanisms (MCAR/MAR/MNAR) from patterns (pointwise/block/monotone/decay/markov)**](https://github.com/feruzoripov/tsgap) ⭐ 6 | 🐛 1 | 🌐 Python | 📅 2026-08-17 (2025) by *Oripov, F.* <https://github.com/feruzoripov/tsgap> ⭐ 6 | 🐛 1 | 🌐 Python | 📅 2026-08-17, ![](https://img.shields.io/github/stars/feruzoripov/tsgap.svg?style=social)
+* [**TSGap: Composable time-series missingness simulation. Separates mechanisms (MCAR/MAR/MNAR) from patterns (pointwise/block/monotone/decay/markov)**](https://github.com/feruzoripov/tsgap) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-08-22 (2025) by *Oripov, F.* <https://github.com/feruzoripov/tsgap> ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-08-22, ![](https://img.shields.io/github/stars/feruzoripov/tsgap.svg?style=social)
 
 ## Classification
 
 ### Feature Attribution
 
-* [**Benchmarking Deep Learning Interpretability in Time Series Predictions**](https://arxiv.org/abs/2010.13924) (2020) by *Ismail, A. A., Gunady, M., Corrada Bravo, H., & Feizi, S.* <https://github.com/ayaabdelsalam91/TS-Interpretability-Benchmark> ⭐ 90 | 🐛 4 | 🌐 Python | 📅 2021-10-07, ![](https://img.shields.io/github/stars/ayaabdelsalam91/TS-Interpretability-Benchmark.svg?style=social)
+* [**Benchmarking Deep Learning Interpretability in Time Series Predictions**](https://arxiv.org/abs/2010.13924) (2020) by *Ismail, A. A., Gunady, M., Corrada Bravo, H., & Feizi, S.* <https://github.com/ayaabdelsalam91/TS-Interpretability-Benchmark> ⭐ 89 | 🐛 4 | 🌐 Python | 📅 2021-10-07, ![](https://img.shields.io/github/stars/ayaabdelsalam91/TS-Interpretability-Benchmark.svg?style=social)
 * [**What went wrong and when? Instance-wise feature importance for time-series black-box models**](https://papers.nips.cc/paper_files/paper/2020/file/08fa43588c2571ade19bc0fa5936e028-Paper.pdf) (2020) by *Tonekaboni, S., Joshi, S., Campbell, K., Duvenaud, D. K., & Goldenberg, A.* <https://github.com/sanatonek/time_series_explainability> ⭐ 61 | 🐛 4 | 🌐 Python | 📅 2021-02-23, ![](https://img.shields.io/github/stars/sanatonek/time_series_explainability.svg?style=social)
 * [**LIMESegment: Meaningful, Realistic Time Series Explanations**](https://proceedings.mlr.press/v151/sivill22a.html) , (2022) by *Sivill, T., & Flach, P.*, <https://github.com/TortySivill/LIMESegment> ⭐ 16 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-10-31, ![](https://img.shields.io/github/stars/TortySivill/LIMESegment.svg?style=social)
 * [**Time is Not Enough: Time-Frequency based Explanation for
-  Time-Series Black-Box Models**](https://arxiv.org/pdf/2408.03636), (2024), by \*Chung, H., Jo, S., Kwon, Y., & Choi, E. \* [https://github.com//gustmd0121/time\_is\_not\_enough](https://github.com/gustmd0121/time_is_not_enough) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2024-12-05, ![](https://img.shields.io/github/stars/gustmd0121/time_is_not_enough.svg?style=social)
+  Time-Series Black-Box Models**](https://arxiv.org/pdf/2408.03636), (2024), by \*Chung, H., Jo, S., Kwon, Y., & Choi, E. \* [https://github.com//gustmd0121/time\_is\_not\_enough](https://github.com/gustmd0121/time_is_not_enough) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2024-12-05, ![](https://img.shields.io/github/stars/gustmd0121/time_is_not_enough.svg?style=social)
 * [**Class-Specific Explainability for Deep Time Series Classifiers**](https://arxiv.org/pdf/2210.05411.pdf) , (2022) by *Doddaiah, R., Parvatharaju, P., Rundensteiner, E., & Hartvigsen, T.*, <https://github.com/rameshdoddaiah/DEMUX> ⭐ 7 | 🐛 1 | 🌐 TypeScript | 📅 2023-05-21, ![](https://img.shields.io/github/stars/rameshdoddaiah/DEMUX.svg?style=social)
 * [**timeXplain -- A Framework for Explaining the Predictions of Time Series Classifiers**](https://arxiv.org/abs/2007.07606) (2019) by *Mujkanovic, F., Doskoč, V., Schirneck, M., Schäfer, P., & Friedrich, T.* <https://github.com/LoadingByte/timeXplain> ⭐ 4 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-11-21, ![](https://img.shields.io/github/stars/LoadingByte/timeXplain.svg?style=social)
 * [**Translating Image XAI to Multivariate Time Series**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10439172), (2024), by *Tronchin, L., Cordelli, E., Celsi, L. R., Maccagnola, D., Natale, M., Soda, P., & Sicilia, R.* [https://github.com//ltronchin/translating-xai-mts](https://github.com/ltronchin/translating-xai-mts) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2023-11-25, ![](https://img.shields.io/github/stars/ltronchin/translating-xai-mts.svg?style=social)
@@ -120,4 +120,4 @@ While this repository mostly focuses on post-hoc explanations - i.e. introducing
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
