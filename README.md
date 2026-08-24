@@ -5,13 +5,13 @@ A list of XAI for time series. This list focuses (currently) on Post-Hoc Explain
 
 ## Outline
 
-* [Surveys](https://github.com/JHoelli/Awesome-Time-Series-Explainability#Surveys) ⭐ 191 | 🐛 0 | 📅 2026-08-19
-* [Libraries ](https://github.com/JHoelli/Awesome-Time-Series-Explainability#Libraries) ⭐ 191 | 🐛 0 | 📅 2026-08-19
-* [Classification ](https://github.com/JHoelli/Awesome-Time-Series-Explainability#Classification) ⭐ 191 | 🐛 0 | 📅 2026-08-19
-* [Regression / Forecasting](https://github.com/JHoelli/Awesome-Time-Series-Explainability#Regression-/-Forecasting) ⭐ 191 | 🐛 0 | 📅 2026-08-19
-* [Classification and Regression / Forcasting](https://github.com/JHoelli/Awesome-Time-Series-Explainability#Classification-and-Regression-/-Forcasting) ⭐ 191 | 🐛 0 | 📅 2026-08-19
-* [Benchmarking and Evaluation](https://github.com/JHoelli/Awesome-Time-Series-Explainability#Benchmarking-and-Evaluation) ⭐ 191 | 🐛 0 | 📅 2026-08-19
-* [Ante-Hoc Explanations](https://github.com/JHoelli/Awesome-Time-Series-Explainability#Ante-Hoc-Explanation) ⭐ 191 | 🐛 0 | 📅 2026-08-19
+* [Surveys](https://github.com/JHoelli/Awesome-Time-Series-Explainability#Surveys) ⭐ 190 | 🐛 0 | 📅 2026-08-19
+* [Libraries ](https://github.com/JHoelli/Awesome-Time-Series-Explainability#Libraries) ⭐ 190 | 🐛 0 | 📅 2026-08-19
+* [Classification ](https://github.com/JHoelli/Awesome-Time-Series-Explainability#Classification) ⭐ 190 | 🐛 0 | 📅 2026-08-19
+* [Regression / Forecasting](https://github.com/JHoelli/Awesome-Time-Series-Explainability#Regression-/-Forecasting) ⭐ 190 | 🐛 0 | 📅 2026-08-19
+* [Classification and Regression / Forcasting](https://github.com/JHoelli/Awesome-Time-Series-Explainability#Classification-and-Regression-/-Forcasting) ⭐ 190 | 🐛 0 | 📅 2026-08-19
+* [Benchmarking and Evaluation](https://github.com/JHoelli/Awesome-Time-Series-Explainability#Benchmarking-and-Evaluation) ⭐ 190 | 🐛 0 | 📅 2026-08-19
+* [Ante-Hoc Explanations](https://github.com/JHoelli/Awesome-Time-Series-Explainability#Ante-Hoc-Explanation) ⭐ 190 | 🐛 0 | 📅 2026-08-19
 
 ## Surveys
 
@@ -70,7 +70,7 @@ A list of XAI for time series. This list focuses (currently) on Post-Hoc Explain
 
 * [**Explaining time series predictions with dynamic masks**](http://proceedings.mlr.press/v139/crabbe21a/crabbe21a.pdf) (2021) by *Crabbé, J., & Van Der Schaar, M.*  <https://github.com/JonathanCrabbe/Dynamask> ⭐ 77 | 🐛 5 | 🌐 Python | 📅 2022-05-31, ![](https://img.shields.io/github/stars/JonathanCrabbe/Dynamask.svg?style=social)
 * [**TEMPORAL DEPENDENCIES IN FEATURE IMPORTANCE FOR TIME SERIES PREDICTION**](https://www.cs.toronto.edu/~mvolkovs/ICLR23_WinIT.pdf) (2023) by *Leung, K. K., Rooke, C., Smith, J., Zuberi, S., & Volkovs, M.*  <https://github.com/layer6ai-labs/WinIT> ⭐ 25 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2023-03-31, ![](https://img.shields.io/github/stars/layer6ai-labs/WinIT.svg?style=social)
-* [**TS-MULE: Local Interpretable Model-Agnostic Explanations for Time Series Forecast Models**](https://link.springer.com/chapter/10.1007/978-3-030-93736-2_1) (2021) by *Schlegel, U., Vo, D. L., Keim, D. A., & Seebacher, D.*  [https://github.comdbvis-ukon/ts-mule](https://github.com/dbvis-ukon/ts-mule) ⭐ 21 | 🐛 5 | 🌐 Python | 📅 2021-09-15, ![](https://img.shields.io/github/stars/dbvis-ukon/ts-mule.svg?style=social)
+* [**TS-MULE: Local Interpretable Model-Agnostic Explanations for Time Series Forecast Models**](https://link.springer.com/chapter/10.1007/978-3-030-93736-2_1) (2021) by *Schlegel, U., Vo, D. L., Keim, D. A., & Seebacher, D.*  [https://github.comdbvis-ukon/ts-mule](https://github.com/dbvis-ukon/ts-mule) ⭐ 22 | 🐛 5 | 🌐 Python | 📅 2021-09-15, ![](https://img.shields.io/github/stars/dbvis-ukon/ts-mule.svg?style=social)
 * [**Counterfactual Explanations for Time Series Forecasting**](https://arxiv.org/abs/2310.08137) (2023) by *Wang, Z., Miliou, I., Samsten, I., & Papapetrou, P.*  <https://github.com/zhendong3wang/counterfactual-explanations-for-forecasting> ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2024-02-14, ![](https://img.shields.io/github/stars/zhendong3wang/counterfactual-explanations-for-forecasting.svg?style=social)
 * [**ShapTime: A General XAI Approach for Explainable Time Series Forecasting**](https://link.springer.com/chapter/10.1007/978-3-031-47721-8_45) (2024) by *Zhang, Y., Sun, Q., Qi, D., Liu, J., Ma, R., & Petrosian, O.* <https://github.com/Zhangyuyi-0825/ShapTime> ⭐ 15 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-03-08, ![](https://img.shields.io/github/stars/Zhangyuyi-0825/ShapTime.svg?style=social)
 * [**TsSHAP: Robust model agnostic feature-based explainability for univariate time series forecasting**](https://arxiv.org/pdf/2303.12316.pdf) (2023) by *Raykar, V. C., Jati, A., Mukherjee, S., Aggarwal, N., Sarpatwar, K., Ganapavarapu, G., & Vaculin, R.*
@@ -120,4 +120,4 @@ While this repository mostly focuses on post-hoc explanations - i.e. introducing
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
