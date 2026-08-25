@@ -153,7 +153,7 @@
             "archived": false,
             "id": 647842068,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-18T03:43:20Z",
+            "last_commit": "2026-08-25T04:32:02Z",
             "owner": "khairulislam",
             "repo": "tslens",
             "stars": 13
@@ -168,7 +168,7 @@
             "archived": false,
             "id": 1163640402,
             "language": "Python",
-            "last_commit": "2026-08-22T16:18:02Z",
+            "last_commit": "2026-08-25T03:50:55Z",
             "owner": "feruzoripov",
             "repo": "tsgap",
             "stars": 6
@@ -448,7 +448,7 @@
                 "last_commit": "2023-12-21T12:00:39Z",
                 "owner": "feedzai",
                 "repo": "timeshap",
-                "stars": 200
+                "stars": 201
               }
             },
             {
@@ -612,7 +612,7 @@
             "archived": false,
             "id": 647842068,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-18T03:43:20Z",
+            "last_commit": "2026-08-25T04:32:02Z",
             "owner": "khairulislam",
             "repo": "tslens",
             "stars": 13
@@ -844,7 +844,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:34:39.760Z",
+    "last_updated": "2026-08-25T06:26:52.603Z",
     "original_repository": "JHoelli/Awesome-Time-Series-Explainability",
     "original_repository_id": 724017466,
     "original_repository_sha": "670e49cc3a8db41f8e6c6040bfe129f730596c8f",
