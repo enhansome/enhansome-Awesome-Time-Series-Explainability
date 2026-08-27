@@ -844,9 +844,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T11:57:48.750Z",
-    "original_repository": "JHoelli/Awesome-Time-Series-Explainability",
-    "original_repository_id": 724017466,
+    "last_updated": "2026-08-27T11:28:33.571Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 724017466,
+      "language": null,
+      "last_commit": "2026-08-19T18:26:42Z",
+      "owner": "JHoelli",
+      "repo": "Awesome-Time-Series-Explainability",
+      "stars": 190
+    },
     "original_repository_sha": "670e49cc3a8db41f8e6c6040bfe129f730596c8f",
     "enhanced_repository": "enhansome/enhansome-Awesome-Time-Series-Explainability",
     "enhanced_repository_description": null,
