@@ -102,7 +102,7 @@ While this repository mostly focuses on post-hoc explanations - i.e. introducing
 
 ### Classification
 
-* [**Retain: An interpretable predictive model for healthcare using reverse time attention mechanism**](https://proceedings.neurips.cc/paper/2016/hash/231141b34c82aa95e48810a9d1b33a79-Abstract.html) (2016) by *Choi, E., Bahadori, M. T., Sun, J., Kulas, J., Schuetz, A., & Stewart, W.* <https://github.com/mp2893/retain> ⭐ 226 | 🐛 4 | 🌐 Python | 📅 2017-11-04, ![](https://img.shields.io/github/stars/mp2893/retain.svg?style=social)
+* [**Retain: An interpretable predictive model for healthcare using reverse time attention mechanism**](https://proceedings.neurips.cc/paper/2016/hash/231141b34c82aa95e48810a9d1b33a79-Abstract.html) (2016) by *Choi, E., Bahadori, M. T., Sun, J., Kulas, J., Schuetz, A., & Stewart, W.* <https://github.com/mp2893/retain> ⭐ 227 | 🐛 4 | 🌐 Python | 📅 2017-11-04, ![](https://img.shields.io/github/stars/mp2893/retain.svg?style=social)
 * [**Xcm: An explainable convolutional neural network for multivariate time series classification**](https://www.mdpi.com/2227-7390/9/23/3137) (2021) by *Fauvel, K., Lin, T., Masson, V., Fromont, É., & Termier, A.* <https://github.com/XAIseries/XCM> ⭐ 50 | 🐛 2 | 🌐 Python | 📅 2022-11-27, ![](https://img.shields.io/github/stars/XAIseries/XCM.svg?style=social)
 * [**XEM: An explainable-by-design ensemble method for multivariate time series classification**](https://link.springer.com/article/10.1007/s10618-022-00823-6) (2022) by *Fauvel, K., Fromont, É., Masson, V., Faverdin, P., & Termier, A* <https://github.com/XAIseries/XEM> ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2023-04-18, ![](https://img.shields.io/github/stars/XAIseries/XEM.svg?style=social)
 * [**Fast, accurate and explainable time series classification through randomization**](https://link.springer.com/article/10.1007/s10618-023-00978-w) (2023) by *Cabello, N., Naghizade, E., Qi, J., & Kulik, L.* <https://github.com/stevcabello/r-STSF> ⭐ 11 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-10-17, ![](https://img.shields.io/github/stars/stevcabello/r-STSF.svg?style=social)
@@ -120,4 +120,4 @@ While this repository mostly focuses on post-hoc explanations - i.e. introducing
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
