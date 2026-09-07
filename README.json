@@ -1050,7 +1050,7 @@
             "open_issues": 1,
             "owner": "hturbe",
             "repo": "InterpretTime",
-            "stars": 56,
+            "stars": 57,
             "topics": []
           },
           "first_seen": "2026-08-28T21:28:48.761Z"
@@ -1318,7 +1318,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T14:21:58.885Z",
+    "last_updated": "2026-09-07T16:37:26.868Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of (post-hoc) XAI for time series",
