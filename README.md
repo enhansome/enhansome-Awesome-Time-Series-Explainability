@@ -33,7 +33,7 @@ A list of XAI for time series. This list focuses (currently) on Post-Hoc Explain
 
 ### Feature Attribution
 
-* [**Benchmarking Deep Learning Interpretability in Time Series Predictions**](https://arxiv.org/abs/2010.13924) (2020) by *Ismail, A. A., Gunady, M., Corrada Bravo, H., & Feizi, S.* <https://github.com/ayaabdelsalam91/TS-Interpretability-Benchmark> ⭐ 89 | 🐛 4 | 🌐 Python | 📅 2021-10-07, ![](https://img.shields.io/github/stars/ayaabdelsalam91/TS-Interpretability-Benchmark.svg?style=social)
+* [**Benchmarking Deep Learning Interpretability in Time Series Predictions**](https://arxiv.org/abs/2010.13924) (2020) by *Ismail, A. A., Gunady, M., Corrada Bravo, H., & Feizi, S.* <https://github.com/ayaabdelsalam91/TS-Interpretability-Benchmark> ⭐ 88 | 🐛 4 | 🌐 Python | 📅 2021-10-07, ![](https://img.shields.io/github/stars/ayaabdelsalam91/TS-Interpretability-Benchmark.svg?style=social)
 * [**What went wrong and when? Instance-wise feature importance for time-series black-box models**](https://papers.nips.cc/paper_files/paper/2020/file/08fa43588c2571ade19bc0fa5936e028-Paper.pdf) (2020) by *Tonekaboni, S., Joshi, S., Campbell, K., Duvenaud, D. K., & Goldenberg, A.* <https://github.com/sanatonek/time_series_explainability> ⭐ 61 | 🐛 4 | 🌐 Python | 📅 2021-02-23, ![](https://img.shields.io/github/stars/sanatonek/time_series_explainability.svg?style=social)
 * [**LIMESegment: Meaningful, Realistic Time Series Explanations**](https://proceedings.mlr.press/v151/sivill22a.html) , (2022) by *Sivill, T., & Flach, P.*, <https://github.com/TortySivill/LIMESegment> ⭐ 16 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-10-31, ![](https://img.shields.io/github/stars/TortySivill/LIMESegment.svg?style=social)
 * [**Time is Not Enough: Time-Frequency based Explanation for
@@ -62,7 +62,7 @@ A list of XAI for time series. This list focuses (currently) on Post-Hoc Explain
 
 ### Frameworks (Multiple Explanation Types)
 
-* [**TimeSHAP: Explaining Recurrent Models through Sequence Perturbations**](https://arxiv.org/abs/2012.00073), (2020) by *Bento, J., Saleiro, P., Cruz, A. F., Figueiredo, M. A., & Bizarro, P.*, <https://github.com/feedzai/timeshap> ⭐ 201 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2023-12-21, ![](https://img.shields.io/github/stars/feedzai/timeshap.svg?style=social)
+* [**TimeSHAP: Explaining Recurrent Models through Sequence Perturbations**](https://arxiv.org/abs/2012.00073), (2020) by *Bento, J., Saleiro, P., Cruz, A. F., Figueiredo, M. A., & Bizarro, P.*, <https://github.com/feedzai/timeshap> ⭐ 202 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2023-12-21, ![](https://img.shields.io/github/stars/feedzai/timeshap.svg?style=social)
 * [**Understanding Any Time Series Classifier with a Subsequence-based Explainer**](https://dl.acm.org/doi/pdf/10.1145/3624480) , (2023) by *Spinnato, F., Guidotti, R., Monreale, A., Nanni, M., Pedreschi, D., & Giannotti, F.* <https://github.com/fspinna/lasts> ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2023-08-30, ![](https://img.shields.io/github/stars/fspinna/lasts.svg?style=social)
 * [**ExTea: An Evolutionary Algorithm-Based Approach for Enhancing Explainability in Time-Series Models**](https://link.springer.com/chapter/10.1007/978-3-031-70381-2_27) (2024) by *Huang, Y., Zhou, Y., Zhao, H., Fang, L., Riedel, T., & Beigl, M* <https://github.com/HuangYiran/extea> ⭐ 0 | 🐛 0 | 📅 2024-05-28, ![](https://img.shields.io/github/stars/HuangYiran/extea.svg?style=social)
 
@@ -120,4 +120,4 @@ While this repository mostly focuses on post-hoc explanations - i.e. introducing
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._

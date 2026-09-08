@@ -380,7 +380,7 @@
                 "open_issues": 4,
                 "owner": "ayaabdelsalam91",
                 "repo": "TS-Interpretability-Benchmark",
-                "stars": 89,
+                "stars": 88,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:48.761Z"
@@ -747,7 +747,7 @@
                 "open_issues": 15,
                 "owner": "feedzai",
                 "repo": "timeshap",
-                "stars": 201,
+                "stars": 202,
                 "topics": [
                   "explainability",
                   "rnn",
@@ -1318,7 +1318,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T16:37:26.868Z",
+    "last_updated": "2026-09-08T15:15:19.065Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of (post-hoc) XAI for time series",
