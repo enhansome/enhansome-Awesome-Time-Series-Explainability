@@ -113,11 +113,11 @@ While this repository mostly focuses on post-hoc explanations - i.e. introducing
 
 ### Forecasting
 
-* [**Interpretable Multivariate Time Series Forecasting with Temporal Attention Convolutional Neural Networks**](https://research.vu.nl/en/publications/interpretable-multivariate-time-series-forecasting-with-temporal-) (2020) by *Pantiskas, L., Verstoep, K., & Bal, H.* <https://github.com/lpphd/multivariate-attention-tcn> ⭐ 99 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2023-03-25, ![](https://img.shields.io/github/stars/lpphd/multivariate-attention-tcn.svg?style=social)
+* [**Interpretable Multivariate Time Series Forecasting with Temporal Attention Convolutional Neural Networks**](https://research.vu.nl/en/publications/interpretable-multivariate-time-series-forecasting-with-temporal-) (2020) by *Pantiskas, L., Verstoep, K., & Bal, H.* <https://github.com/lpphd/multivariate-attention-tcn> ⭐ 98 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2023-03-25, ![](https://img.shields.io/github/stars/lpphd/multivariate-attention-tcn.svg?style=social)
 * [**Exploring interpretable LSTM neural networks over multi-variable data**](http://proceedings.mlr.press/v97/guo19b.html) (2019) by *Guo, Tian, Tao Lin, and Nino Antulov-Fantulin* <https://github.com/weilai0980/IMV-LSTM> ⭐ 49 | 🐛 4 | 🌐 Python | 📅 2021-06-18, ![](https://img.shields.io/github/stars/weilai0980/IMV-LSTM.svg?style=social)
 * [**Temporal fusion transformers for interpretable multi-horizon time series forecasting**](https://www.sciencedirect.com/science/article/pii/S0169207021000637) (2021) by *Lim, B., Arık, S. Ö., Loeff, N., & Pfister, T.*
 * [**A memory-network based solution for multivariate time-series forecasting**](https://arxiv.org/abs/1809.02105) (2018) by *Chang, Y. Y., Sun, F. Y., Wu, Y. H., & Lin, S. D.*
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
