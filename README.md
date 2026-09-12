@@ -62,7 +62,7 @@ A list of XAI for time series. This list focuses (currently) on Post-Hoc Explain
 
 ### Frameworks (Multiple Explanation Types)
 
-* [**TimeSHAP: Explaining Recurrent Models through Sequence Perturbations**](https://arxiv.org/abs/2012.00073), (2020) by *Bento, J., Saleiro, P., Cruz, A. F., Figueiredo, M. A., & Bizarro, P.*, <https://github.com/feedzai/timeshap> ⭐ 202 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2023-12-21, ![](https://img.shields.io/github/stars/feedzai/timeshap.svg?style=social)
+* [**TimeSHAP: Explaining Recurrent Models through Sequence Perturbations**](https://arxiv.org/abs/2012.00073), (2020) by *Bento, J., Saleiro, P., Cruz, A. F., Figueiredo, M. A., & Bizarro, P.*, <https://github.com/feedzai/timeshap> ⭐ 202 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2023-12-21, ![](https://img.shields.io/github/stars/feedzai/timeshap.svg?style=social)
 * [**Understanding Any Time Series Classifier with a Subsequence-based Explainer**](https://dl.acm.org/doi/pdf/10.1145/3624480) , (2023) by *Spinnato, F., Guidotti, R., Monreale, A., Nanni, M., Pedreschi, D., & Giannotti, F.* <https://github.com/fspinna/lasts> ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2023-08-30, ![](https://img.shields.io/github/stars/fspinna/lasts.svg?style=social)
 * [**ExTea: An Evolutionary Algorithm-Based Approach for Enhancing Explainability in Time-Series Models**](https://link.springer.com/chapter/10.1007/978-3-031-70381-2_27) (2024) by *Huang, Y., Zhou, Y., Zhao, H., Fang, L., Riedel, T., & Beigl, M* <https://github.com/HuangYiran/extea> ⭐ 0 | 🐛 0 | 📅 2024-05-28, ![](https://img.shields.io/github/stars/HuangYiran/extea.svg?style=social)
 
@@ -120,4 +120,4 @@ While this repository mostly focuses on post-hoc explanations - i.e. introducing
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
