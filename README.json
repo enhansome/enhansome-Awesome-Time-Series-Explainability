@@ -747,7 +747,7 @@
                 "open_issues": 16,
                 "owner": "feedzai",
                 "repo": "timeshap",
-                "stars": 202,
+                "stars": 203,
                 "topics": [
                   "explainability",
                   "rnn",
@@ -1318,7 +1318,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T15:05:40.395Z",
+    "last_updated": "2026-09-19T14:42:06.647Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of (post-hoc) XAI for time series",
