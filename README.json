@@ -933,7 +933,7 @@
                 "open_issues": 4,
                 "owner": "mp2893",
                 "repo": "retain",
-                "stars": 228,
+                "stars": 229,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:48.761Z"
@@ -1088,7 +1088,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T15:56:33.593Z",
+    "last_updated": "2026-10-05T19:43:30.268Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of (post-hoc) XAI for time series",
