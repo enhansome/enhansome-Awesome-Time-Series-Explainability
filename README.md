@@ -27,7 +27,7 @@ A list of XAI for time series. This list focuses (currently) on Post-Hoc Explain
 * [**TSInterpret: A Python Package for the Interpretability of Time Series Classification**](https://joss.theoj.org/papers/10.21105/joss.05220.pdf) (2023) by *Höllig, J., Kulbach, C., & Thoma, S.* <https://github.com/fzi-forschungszentrum-informatik/TSInterpret> ⭐ 144 | 🐛 5 | 🌐 Python | 📅 2025-11-19, ![](https://img.shields.io/github/stars/fzi-forschungszentrum-informatik/TSInterpret.svg?style=social)
 * [**Time Interpret: a Unified Model Interpretability Library for Time Series**](https://arxiv.org/abs/2306.02968) (2023) by *Enguehard, J.* <https://github.com/josephenguehard/time_interpret> ⭐ 74 | 🐛 2 | 🌐 Python | 📅 2026-05-18, ![](https://img.shields.io/github/stars/josephenguehard/time_interpret.svg?style=social)
 * [**tslens: A PyTorch Toolkit for Interpreting Time-Series Deep Learning Models**](https://arxiv.org/abs/2412.04532) (2024) by *Islam, M. K., & Fox, J.* <https://github.com/khairulislam/tslens> ⭐ 13 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-08-25, ![](https://img.shields.io/github/stars/khairulislam/tslens.svg?style=social)
-* [**TSGap: Composable time-series missingness simulation. Separates mechanisms (MCAR/MAR/MNAR) from patterns (pointwise/block/monotone/decay/markov)**](https://github.com/feruzoripov/tsgap) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-10-02 (2025) by *Oripov, F.* <https://github.com/feruzoripov/tsgap> ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-10-02, ![](https://img.shields.io/github/stars/feruzoripov/tsgap.svg?style=social)
+* [**TSGap: Composable time-series missingness simulation. Separates mechanisms (MCAR/MAR/MNAR) from patterns (pointwise/block/monotone/decay/markov)**](https://github.com/feruzoripov/tsgap) ⭐ 7 | 🐛 3 | 🌐 Python | 📅 2026-10-09 (2025) by *Oripov, F.* <https://github.com/feruzoripov/tsgap> ⭐ 7 | 🐛 3 | 🌐 Python | 📅 2026-10-09, ![](https://img.shields.io/github/stars/feruzoripov/tsgap.svg?style=social)
 
 ## Classification
 
@@ -63,7 +63,7 @@ A list of XAI for time series. This list focuses (currently) on Post-Hoc Explain
 ### Frameworks (Multiple Explanation Types)
 
 * [**TimeSHAP: Explaining Recurrent Models through Sequence Perturbations**](https://arxiv.org/abs/2012.00073), (2020) by *Bento, J., Saleiro, P., Cruz, A. F., Figueiredo, M. A., & Bizarro, P.*, <https://github.com/feedzai/timeshap> ⭐ 204 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2023-12-21, ![](https://img.shields.io/github/stars/feedzai/timeshap.svg?style=social)
-* [**Understanding Any Time Series Classifier with a Subsequence-based Explainer**](https://dl.acm.org/doi/pdf/10.1145/3624480) , (2023) by *Spinnato, F., Guidotti, R., Monreale, A., Nanni, M., Pedreschi, D., & Giannotti, F.* <https://github.com/fspinna/lasts> ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2023-08-30, ![](https://img.shields.io/github/stars/fspinna/lasts.svg?style=social)
+* [**Understanding Any Time Series Classifier with a Subsequence-based Explainer**](https://dl.acm.org/doi/pdf/10.1145/3624480) , (2023) by *Spinnato, F., Guidotti, R., Monreale, A., Nanni, M., Pedreschi, D., & Giannotti, F.* <https://github.com/fspinna/lasts> ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2026-10-09, ![](https://img.shields.io/github/stars/fspinna/lasts.svg?style=social)
 * [**ExTea: An Evolutionary Algorithm-Based Approach for Enhancing Explainability in Time-Series Models**](https://link.springer.com/chapter/10.1007/978-3-031-70381-2_27) (2024) by *Huang, Y., Zhou, Y., Zhao, H., Fang, L., Riedel, T., & Beigl, M* <https://github.com/HuangYiran/extea> ⭐ 0 | 🐛 0 | 📅 2024-05-28, ![](https://img.shields.io/github/stars/HuangYiran/extea.svg?style=social)
 
 ## Forecasting
@@ -120,4 +120,4 @@ While this repository mostly focuses on post-hoc explanations - i.e. introducing
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
