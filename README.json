@@ -105,11 +105,11 @@
             "id": 1163640402,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-11T16:11:46Z",
+            "last_commit": "2026-10-12T02:15:57Z",
             "open_issues": 0,
             "owner": "feruzoripov",
             "repo": "tsgap",
-            "stars": 7,
+            "stars": 8,
             "topics": [
               "benchmarking",
               "data-science",
@@ -1088,7 +1088,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T16:43:44.799Z",
+    "last_updated": "2026-10-12T20:23:51.003Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of (post-hoc) XAI for time series",
@@ -1100,7 +1100,7 @@
       "open_issues": 0,
       "owner": "JHoelli",
       "repo": "Awesome-Time-Series-Explainability",
-      "stars": 194,
+      "stars": 193,
       "topics": [
         "awesome-list",
         "awesome-lists",
