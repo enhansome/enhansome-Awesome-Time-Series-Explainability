@@ -1045,7 +1045,7 @@
                 "open_issues": 3,
                 "owner": "lpphd",
                 "repo": "multivariate-attention-tcn",
-                "stars": 98,
+                "stars": 97,
                 "topics": [
                   "attention-mechanism",
                   "deep-learning",
@@ -1088,7 +1088,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T20:23:51.003Z",
+    "last_updated": "2026-10-13T18:27:19.022Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of (post-hoc) XAI for time series",
