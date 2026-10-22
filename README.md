@@ -27,7 +27,7 @@ A list of XAI for time series. This list focuses (currently) on Post-Hoc Explain
 * [**TSInterpret: A Python Package for the Interpretability of Time Series Classification**](https://joss.theoj.org/papers/10.21105/joss.05220.pdf) (2023) by *Höllig, J., Kulbach, C., & Thoma, S.* <https://github.com/fzi-forschungszentrum-informatik/TSInterpret> ⭐ 144 | 🐛 5 | 🌐 Python | 📅 2025-11-19, ![](https://img.shields.io/github/stars/fzi-forschungszentrum-informatik/TSInterpret.svg?style=social)
 * [**Time Interpret: a Unified Model Interpretability Library for Time Series**](https://arxiv.org/abs/2306.02968) (2023) by *Enguehard, J.* <https://github.com/josephenguehard/time_interpret> ⭐ 74 | 🐛 2 | 🌐 Python | 📅 2026-05-18, ![](https://img.shields.io/github/stars/josephenguehard/time_interpret.svg?style=social)
 * [**tslens: A PyTorch Toolkit for Interpreting Time-Series Deep Learning Models**](https://arxiv.org/abs/2412.04532) (2024) by *Islam, M. K., & Fox, J.* <https://github.com/khairulislam/tslens> ⭐ 13 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-08-25, ![](https://img.shields.io/github/stars/khairulislam/tslens.svg?style=social)
-* [**TSGap: Composable time-series missingness simulation. Separates mechanisms (MCAR/MAR/MNAR) from patterns (pointwise/block/monotone/decay/markov)**](https://github.com/feruzoripov/tsgap) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2026-10-12 (2025) by *Oripov, F.* <https://github.com/feruzoripov/tsgap> ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2026-10-12, ![](https://img.shields.io/github/stars/feruzoripov/tsgap.svg?style=social)
+* [**TSGap: Composable time-series missingness simulation. Separates mechanisms (MCAR/MAR/MNAR) from patterns (pointwise/block/monotone/decay/markov)**](https://github.com/feruzoripov/tsgap) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-10-22 (2025) by *Oripov, F.* <https://github.com/feruzoripov/tsgap> ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-10-22, ![](https://img.shields.io/github/stars/feruzoripov/tsgap.svg?style=social)
 
 ## Classification
 
@@ -79,12 +79,12 @@ A list of XAI for time series. This list focuses (currently) on Post-Hoc Explain
 ## Classification and Regression / Forcasting
 
 * [**Learning Perturbations to Explain Time Series Predictions**](https://arxiv.org/pdf/2305.18840.pdf) (2023) by *Enguehard, J.* <https://github.com/josephenguehard/time_interpret> ⭐ 74 | 🐛 2 | 🌐 Python | 📅 2026-05-18, ![](https://img.shields.io/github/stars/josephenguehard/time_interpret.svg?style=social)
-* [**Tsviz: Demystification of deep learning models for time-series analysis**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8695734) (2019) by *Siddiqui, S. A., Mercier, D., Munir, M., Dengel, A., & Ahmed, S.* <https://github.com/shoaibahmed/TSViz-Core> ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2019-05-15, ![](https://img.shields.io/github/stars/shoaibahmed/TSViz-Core.svg?style=social)
+* [**Tsviz: Demystification of deep learning models for time-series analysis**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8695734) (2019) by *Siddiqui, S. A., Mercier, D., Munir, M., Dengel, A., & Ahmed, S.* <https://github.com/shoaibahmed/TSViz-Core> ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2019-05-15, ![](https://img.shields.io/github/stars/shoaibahmed/TSViz-Core.svg?style=social)
 * [**WinTSR: A Windowed Temporal Saliency Rescaling Method for Interpreting Time Series Deep Learning Models**](https://arxiv.org/abs/2412.04532) (2024) by *Islam, M. K., & Fox, J.* <https://github.com/khairulislam/tslens> ⭐ 13 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-08-25, ![](https://img.shields.io/github/stars/khairulislam/tslens.svg?style=social)
 
 ## Benchmarking and Evaluation
 
-* [**Exathlon: A Benchmark for Explainable Anomaly Detection over Time Series**](https://arxiv.org/pdf/2010.05073.pdf), (2021) by *Jacob, V., Song, F., Stiegler, A., Rad, B., Diao, Y., & Tatbul, N.* <https://github.com/exathlonbenchmark/exathlon> ⭐ 72 | 🐛 2 | 🌐 Python | 📅 2024-03-13, ![](https://img.shields.io/github/stars/exathlonbenchmark/exathlon.svg?style=social)
+* [**Exathlon: A Benchmark for Explainable Anomaly Detection over Time Series**](https://arxiv.org/pdf/2010.05073.pdf), (2021) by *Jacob, V., Song, F., Stiegler, A., Rad, B., Diao, Y., & Tatbul, N.* <https://github.com/exathlonbenchmark/exathlon> ⭐ 73 | 🐛 2 | 🌐 Python | 📅 2024-03-13, ![](https://img.shields.io/github/stars/exathlonbenchmark/exathlon.svg?style=social)
 * [**Evaluation of post-hoc interpretability methods in time-series classification**](https://www.nature.com/articles/s42256-023-00620-w), (2023) by *Turbé, H., Bjelogrlic, M., Lovis, C. et al.*, <https://github.com/hturbe/InterpretTime> ⭐ 57 | 🐛 1 | 🌐 Python | 📅 2023-04-13, ![](https://img.shields.io/github/stars/hturbe/InterpretTime.svg?style=social)
 * [**Evaluating Explanation Methods for Multivariate Time Series Classification**](https://arxiv.org/abs/2308.15223), (2023) by \*Serramazza, D. I., Nguyen, T. T., Nguyen, T. L., & Ifrim, G. \* <https://github.com/mlgig/Evaluating-Explanation-Methods-for-MTSC> ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-06-09, ![](https://img.shields.io/github/stars/mlgig/Evaluating-Explanation-Methods-for-MTSC.svg?style=social)
 * [**Robust Framework for Explanation Evaluation in Time Series Classification**](https://arxiv.org/abs/2306.05501), (2023) by *Nguyen, T. T., Nguyen, T. L., & Ifrim, G.* <https://github.com/mlgig/amee> ⭐ 7 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-06-26, ![](https://img.shields.io/github/stars/mlgig/amee.svg?style=social)
@@ -120,4 +120,4 @@ While this repository mostly focuses on post-hoc explanations - i.e. introducing
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
