@@ -26,7 +26,7 @@ A list of XAI for time series. This list focuses (currently) on Post-Hoc Explain
 
 * [**TSInterpret: A Python Package for the Interpretability of Time Series Classification**](https://joss.theoj.org/papers/10.21105/joss.05220.pdf) (2023) by *Höllig, J., Kulbach, C., & Thoma, S.* <https://github.com/fzi-forschungszentrum-informatik/TSInterpret> ⭐ 144 | 🐛 5 | 🌐 Python | 📅 2025-11-19, ![](https://img.shields.io/github/stars/fzi-forschungszentrum-informatik/TSInterpret.svg?style=social)
 * [**Time Interpret: a Unified Model Interpretability Library for Time Series**](https://arxiv.org/abs/2306.02968) (2023) by *Enguehard, J.* <https://github.com/josephenguehard/time_interpret> ⭐ 74 | 🐛 2 | 🌐 Python | 📅 2026-05-18, ![](https://img.shields.io/github/stars/josephenguehard/time_interpret.svg?style=social)
-* [**tslens: A PyTorch Toolkit for Interpreting Time-Series Deep Learning Models**](https://arxiv.org/abs/2412.04532) (2024) by *Islam, M. K., & Fox, J.* <https://github.com/khairulislam/tslens> ⭐ 13 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-08-25, ![](https://img.shields.io/github/stars/khairulislam/tslens.svg?style=social)
+* [**tslens: A PyTorch Toolkit for Interpreting Time-Series Deep Learning Models**](https://arxiv.org/abs/2412.04532) (2024) by *Islam, M. K., & Fox, J.* <https://github.com/khairulislam/tslens> ⭐ 12 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-08-25, ![](https://img.shields.io/github/stars/khairulislam/tslens.svg?style=social)
 * [**TSGap: Composable time-series missingness simulation. Separates mechanisms (MCAR/MAR/MNAR) from patterns (pointwise/block/monotone/decay/markov)**](https://github.com/feruzoripov/tsgap) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-10-22 (2025) by *Oripov, F.* <https://github.com/feruzoripov/tsgap> ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-10-22, ![](https://img.shields.io/github/stars/feruzoripov/tsgap.svg?style=social)
 
 ## Classification
@@ -69,7 +69,7 @@ A list of XAI for time series. This list focuses (currently) on Post-Hoc Explain
 ## Forecasting
 
 * [**Explaining time series predictions with dynamic masks**](http://proceedings.mlr.press/v139/crabbe21a/crabbe21a.pdf) (2021) by *Crabbé, J., & Van Der Schaar, M.*  <https://github.com/JonathanCrabbe/Dynamask> ⭐ 77 | 🐛 5 | 🌐 Python | 📅 2022-05-31, ![](https://img.shields.io/github/stars/JonathanCrabbe/Dynamask.svg?style=social)
-* [**TEMPORAL DEPENDENCIES IN FEATURE IMPORTANCE FOR TIME SERIES PREDICTION**](https://www.cs.toronto.edu/~mvolkovs/ICLR23_WinIT.pdf) (2023) by *Leung, K. K., Rooke, C., Smith, J., Zuberi, S., & Volkovs, M.*  <https://github.com/layer6ai-labs/WinIT> ⭐ 25 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2023-03-31, ![](https://img.shields.io/github/stars/layer6ai-labs/WinIT.svg?style=social)
+* [**TEMPORAL DEPENDENCIES IN FEATURE IMPORTANCE FOR TIME SERIES PREDICTION**](https://www.cs.toronto.edu/~mvolkovs/ICLR23_WinIT.pdf) (2023) by *Leung, K. K., Rooke, C., Smith, J., Zuberi, S., & Volkovs, M.*  <https://github.com/layer6ai-labs/WinIT> ⭐ 24 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2023-03-31, ![](https://img.shields.io/github/stars/layer6ai-labs/WinIT.svg?style=social)
 * [**TS-MULE: Local Interpretable Model-Agnostic Explanations for Time Series Forecast Models**](https://link.springer.com/chapter/10.1007/978-3-030-93736-2_1) (2021) by *Schlegel, U., Vo, D. L., Keim, D. A., & Seebacher, D.*  [https://github.comdbvis-ukon/ts-mule](https://github.com/dbvis-ukon/ts-mule) ⭐ 22 | 🐛 5 | 🌐 Python | 📅 2021-09-15, ![](https://img.shields.io/github/stars/dbvis-ukon/ts-mule.svg?style=social)
 * [**Counterfactual Explanations for Time Series Forecasting**](https://arxiv.org/abs/2310.08137) (2023) by *Wang, Z., Miliou, I., Samsten, I., & Papapetrou, P.*  <https://github.com/zhendong3wang/counterfactual-explanations-for-forecasting> ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2024-02-14, ![](https://img.shields.io/github/stars/zhendong3wang/counterfactual-explanations-for-forecasting.svg?style=social)
 * [**ShapTime: A General XAI Approach for Explainable Time Series Forecasting**](https://link.springer.com/chapter/10.1007/978-3-031-47721-8_45) (2024) by *Zhang, Y., Sun, Q., Qi, D., Liu, J., Ma, R., & Petrosian, O.* <https://github.com/Zhangyuyi-0825/ShapTime> ⭐ 15 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-03-08, ![](https://img.shields.io/github/stars/Zhangyuyi-0825/ShapTime.svg?style=social)
@@ -80,7 +80,7 @@ A list of XAI for time series. This list focuses (currently) on Post-Hoc Explain
 
 * [**Learning Perturbations to Explain Time Series Predictions**](https://arxiv.org/pdf/2305.18840.pdf) (2023) by *Enguehard, J.* <https://github.com/josephenguehard/time_interpret> ⭐ 74 | 🐛 2 | 🌐 Python | 📅 2026-05-18, ![](https://img.shields.io/github/stars/josephenguehard/time_interpret.svg?style=social)
 * [**Tsviz: Demystification of deep learning models for time-series analysis**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8695734) (2019) by *Siddiqui, S. A., Mercier, D., Munir, M., Dengel, A., & Ahmed, S.* <https://github.com/shoaibahmed/TSViz-Core> ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2019-05-15, ![](https://img.shields.io/github/stars/shoaibahmed/TSViz-Core.svg?style=social)
-* [**WinTSR: A Windowed Temporal Saliency Rescaling Method for Interpreting Time Series Deep Learning Models**](https://arxiv.org/abs/2412.04532) (2024) by *Islam, M. K., & Fox, J.* <https://github.com/khairulislam/tslens> ⭐ 13 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-08-25, ![](https://img.shields.io/github/stars/khairulislam/tslens.svg?style=social)
+* [**WinTSR: A Windowed Temporal Saliency Rescaling Method for Interpreting Time Series Deep Learning Models**](https://arxiv.org/abs/2412.04532) (2024) by *Islam, M. K., & Fox, J.* <https://github.com/khairulislam/tslens> ⭐ 12 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-08-25, ![](https://img.shields.io/github/stars/khairulislam/tslens.svg?style=social)
 
 ## Benchmarking and Evaluation
 
@@ -120,4 +120,4 @@ While this repository mostly focuses on post-hoc explanations - i.e. introducing
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._

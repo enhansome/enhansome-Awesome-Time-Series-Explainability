@@ -75,7 +75,7 @@
             "open_issues": 0,
             "owner": "khairulislam",
             "repo": "tslens",
-            "stars": 13,
+            "stars": 12,
             "topics": [
               "captum",
               "deep-learning",
@@ -617,7 +617,7 @@
             "open_issues": 2,
             "owner": "layer6ai-labs",
             "repo": "WinIT",
-            "stars": 25,
+            "stars": 24,
             "topics": []
           },
           "first_seen": "2026-08-28T21:28:48.761Z"
@@ -759,7 +759,7 @@
             "open_issues": 0,
             "owner": "khairulislam",
             "repo": "tslens",
-            "stars": 13,
+            "stars": 12,
             "topics": [
               "captum",
               "deep-learning",
@@ -1088,7 +1088,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T15:59:06.808Z",
+    "last_updated": "2026-10-23T15:50:40.546Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of (post-hoc) XAI for time series",
