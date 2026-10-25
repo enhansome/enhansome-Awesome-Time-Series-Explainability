@@ -106,7 +106,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-22T03:07:02Z",
-            "open_issues": 0,
+            "open_issues": 2,
             "owner": "feruzoripov",
             "repo": "tsgap",
             "stars": 8,
@@ -1088,7 +1088,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T14:46:06.149Z",
+    "last_updated": "2026-10-25T15:01:03.403Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of (post-hoc) XAI for time series",
