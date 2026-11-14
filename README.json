@@ -1088,7 +1088,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T18:41:11.716Z",
+    "last_updated": "2026-11-14T17:15:41.806Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of (post-hoc) XAI for time series",
@@ -1100,7 +1100,7 @@
       "open_issues": 0,
       "owner": "JHoelli",
       "repo": "Awesome-Time-Series-Explainability",
-      "stars": 193,
+      "stars": 194,
       "topics": [
         "awesome-list",
         "awesome-lists",
