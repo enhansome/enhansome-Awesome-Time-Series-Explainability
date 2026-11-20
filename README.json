@@ -513,8 +513,8 @@
                 "id": 446530335,
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
-                "last_commit": "2023-12-21T12:00:39Z",
-                "open_issues": 17,
+                "last_commit": "2026-11-20T10:28:43Z",
+                "open_issues": 10,
                 "owner": "feedzai",
                 "repo": "timeshap",
                 "stars": 204,
@@ -1088,7 +1088,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T19:35:10.750Z",
+    "last_updated": "2026-11-20T19:13:24.477Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of (post-hoc) XAI for time series",
