@@ -635,7 +635,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2021-09-15T09:16:45Z",
-            "open_issues": 5,
+            "open_issues": 1,
             "owner": "dbvis-ukon",
             "repo": "ts-mule",
             "stars": 22,
@@ -1088,7 +1088,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T21:27:16.782Z",
+    "last_updated": "2026-11-25T20:35:54.121Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of (post-hoc) XAI for time series",
